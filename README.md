@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OmMishra2407
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on A mood tracking project with Python
+- 📫 How to reach me (mishraom24707@gmail.com)
